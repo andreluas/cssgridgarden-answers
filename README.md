@@ -3,7 +3,7 @@ Welcome to Grid Garden, where you write CSS code to grow your carrot garden!
 
 ### Game: [CSS Grid Garden](https://cssgridgarden.com/)
 
-![Banner]
+![Banner](src/banner-garden.PNG)
 
 ### Levels Answers ###
 * [Level 1]
