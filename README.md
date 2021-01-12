@@ -6,7 +6,7 @@ Welcome to Grid Garden, where you write CSS code to grow your carrot garden!
 ![Banner](src/banner-garden.PNG)
 
 ### Levels Answers ###
-* [Level 1]
+* [Level 1](levels/1.css)
 * [Level 2]
 * [Level 3]
 * [Level 4]
